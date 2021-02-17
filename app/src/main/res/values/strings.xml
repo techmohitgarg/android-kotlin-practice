@@ -4,4 +4,6 @@
     <string name="add_new_food">add new food...</string>
     <string name="decide">DECIDE!</string>
     <string name="chinese">Chinese</string>
+    <string name="practice">Practice</string>
+    <string name="customize_dashboard">Customize Dashboard</string>
 </resources>
